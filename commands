@@ -13,6 +13,7 @@ touch index.html
 <html>
 <head>
 <title>Ez egy oldal</title>
+<meta charset="UTF-8">
 </head>
 <body>
       
