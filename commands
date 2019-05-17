@@ -12,12 +12,12 @@ touch index.html
 <!DOCTYPE html>
 <html>
 <head>
-<title>Ez egy oldal</title>
+<title><Ez egy oldal</title>
 <meta charset="UTF-8">
 </head>
 <body>
       
-<h1>Hello World!</h1>
+<h1><font color="blue">Hello World!</font></h1>
 <p>ppp</p>
       
 </body>
